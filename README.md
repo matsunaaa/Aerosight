@@ -19,7 +19,7 @@ Built for TARC (The American Rocketry Challenge) post-flight analysis.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/aerosight.git
+git clone https://github.com/matsunaaa/Aerosight.git
 cd aerosight
 pip install -r requirements.txt
 streamlit run app.py
